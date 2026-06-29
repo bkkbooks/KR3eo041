@@ -1,0 +1,257 @@
+canonical_identifier: bkk:krp/KR3eo041/v1
+canonical_location: https://kanripo.org/bkk/KR3eo041/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 保生心鑑
+  identifiers:
+    krp: KR3eo041
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo041.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo041_000.yaml, hash: 'sha256:734fe9de29193bd58cf2de6f911ff0f9dd7e57028b3d36f48601e3527099722d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo041_000.markers.yaml, hash: 'sha256:787ae59443f7af01bb98428da7ce546871cdf89200f2e78ef13cd4290680b23a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 352
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d12.h1s1
+    span:
+    - front
+    - 352
+    - 3193
+  label: 太清二十四氣水火聚散圖序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d13.h1s1
+    span:
+    - front
+    - 3193
+    - 3612
+  label: 附活人心法序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 121
+  label: 修真要訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d4.h1s1
+    span:
+    - body
+    - 121
+    - 167
+  label: 引用諸書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d5.h1s1
+    span:
+    - body
+    - 167
+    - 181
+  label: 五運六氣樞要之圖六十年紀運圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d6.h1s1
+    span:
+    - body
+    - 181
+    - 187
+  label: 四時氣候之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d7.h1s1
+    span:
+    - body
+    - 187
+    - 195
+  label: 五天氣圖主氣之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d8.h1s1
+    span:
+    - body
+    - 195
+    - 199
+  label: 客氣之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d9.h1s1
+    span:
+    - body
+    - 199
+    - 290
+  label: 臟腑配經絡圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d10.h1s1
+    span:
+    - body
+    - 290
+    - 394
+  label: 經絡配四時圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d11.h1s1
+    span:
+    - body
+    - 394
+    - 794
+  label: 太上養生要訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d14.h1s1
+    span:
+    - body
+    - 794
+    - 2859
+  label: 附活人心法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d14d4
+    span:
+    - body
+    - 1544
+    - 1812
+  label: 治心
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d14d5
+    span:
+    - body
+    - 1812
+    - 2450
+  label: 導引法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d14d6
+    span:
+    - body
+    - 2450
+    - 2456
+  label: 叩齒集神圖法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d14d7
+    span:
+    - body
+    - 2456
+    - 2491
+  label: 搖天柱圖法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d14d8
+    span:
+    - body
+    - 2491
+    - 2549
+  label: 舌攪漱咽圖法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d14d9
+    span:
+    - body
+    - 2549
+    - 2605
+  label: 摩腎堂圖法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d14d10
+    span:
+    - body
+    - 2605
+    - 2640
+  label: 單關轆轤圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d14d11
+    span:
+    - body
+    - 2640
+    - 2684
+  label: 雙關轆轤圖法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d14d12
+    span:
+    - body
+    - 2684
+    - 2723
+  label: 托天按頂圖法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo041_jc_000-d14d13
+    span:
+    - body
+    - 2723
+    - 2859
+  label: 鉤攀圖法
+  type: section
+  level: 2
+hash: sha256:a11056fb2932c1bb6b5eddb5efb1e212995337084ecc358e73e856ceb2d0af8b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
