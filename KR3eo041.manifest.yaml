@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo041_000.yaml, hash: 'sha256:734fe9de29193bd58cf2de6f911ff0f9dd7e57028b3d36f48601e3527099722d'}
+  - {seq: 0, filename: KR3eo041_000.yaml, hash: 'sha256:13a6d35c39051514fb9b35c31edf73ea15b3005d690b2bb0ab8ef7a33931d8bb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo041_000.markers.yaml, hash: 'sha256:787ae59443f7af01bb98428da7ce546871cdf89200f2e78ef13cd4290680b23a'}
+  - {seq: 0, role: markers, filename: assets/KR3eo041_000.markers.yaml, hash: 'sha256:d897bce604c2366f0491b20405f0f1570bad2186194484204772e1baa5cf5205'}
 table_of_contents:
 - ref:
     seq: 0
@@ -251,7 +251,4 @@ table_of_contents:
   label: 鉤攀圖法
   type: section
   level: 2
-hash: sha256:a11056fb2932c1bb6b5eddb5efb1e212995337084ecc358e73e856ceb2d0af8b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1f6173f35024c749c22e4e9e1b1f3964cba87a73ebca4cde0c098daa3c1292cf
